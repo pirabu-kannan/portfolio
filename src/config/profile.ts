@@ -6,7 +6,7 @@ export const profile = {
   email: "pirabukannanum19@gmail.com",
   phone: "+91-90800 22667",
   location: "Chennai, India",
-  github: "https://www.github.com/piirabu-kannan", // Add your GitHub UR
+  github: "https://www.github.com/pirabu-kannan", // Add your GitHub UR
   linkedin: "https://www.linkedin.com/in/pirabukannanu", // Add your LinkedIn URL
   scholar: "", // Add Google Scholar URL
   resume: "/portfolio/assets/resume.pdf",
