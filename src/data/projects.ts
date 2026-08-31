@@ -32,6 +32,20 @@ export const projects: Project[] = [
     featured: true,
   },
   {
+  id: 'diamond-growth-digital-twin',
+  title: 'Digital Twin for Diamond Growth Process (MPCVD & HPHT)',
+  category: 'Manufacturing',
+  year: '2026',
+  organization: 'Indian Institute of Technology Madras',
+  shortDescription: 'Developing Digital Twin for diamond growth process monitoring and optimization in MPCVD and HPHT systems.',
+  fullDescription: 'Developed a Digital Twin framework for diamond growth processes using MPCVD and HPHT methods, integrating real‑time data, simulation, and AI/ML for process monitoring and optimisation.',
+  domains: ['Digital Twin', 'Manufacturing', 'Process Monitoring', 'AI/ML', 'Simulation'],
+  technologies: ['Python', 'Digital Twin', 'Simulation', 'AI/ML', 'Data Processing', 'Condition Monitoring'],
+  architecture: ['MPCVD/HPHT System', 'Sensors', 'Data Acquisition', 'Simulation Model', 'AI/ML Models', 'Digital Twin', 'Process Optimization'],
+  status: 'Ongoing',
+  featured: true,
+}
+  {
     id: 'cnc-milling-digital-twin',
     title: 'Digital Twin for CNC Milling Machine',
     category: 'Manufacturing',
