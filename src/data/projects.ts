@@ -44,7 +44,7 @@ export const projects: Project[] = [
   architecture: ['MPCVD/HPHT System', 'Sensors', 'Data Acquisition', 'Simulation Model', 'AI/ML Models', 'Digital Twin', 'Process Optimization'],
   status: 'Ongoing',
   featured: true,
-}
+},
   {
     id: 'cnc-milling-digital-twin',
     title: 'Digital Twin for CNC Milling Machine',
