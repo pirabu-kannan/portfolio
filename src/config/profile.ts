@@ -9,6 +9,7 @@ export const profile = {
   github: "https://www.github.com/pirabu-kannan", // Add your GitHub UR
   linkedin: "https://www.linkedin.com/in/pirabukannanu", // Add your LinkedIn URL
   scholar: "", // Add Google Scholar URL
+  formspreeEndpoint: "", // e.g., "https://formspree.io/f/yourFormID",
   resume: "/portfolio/public/assets/resume.pdf",
   socials: {
     github: true,
