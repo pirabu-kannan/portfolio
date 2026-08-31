@@ -9,7 +9,7 @@ export const profile = {
   github: "https://www.github.com/pirabu-kannan", // Add your GitHub UR
   linkedin: "https://www.linkedin.com/in/pirabukannanu", // Add your LinkedIn URL
   scholar: "", // Add Google Scholar URL
-  resume: "./public/assets/resume.pdf",
+  resume: "/portfolio/public/assets/resume.pdf",
   socials: {
     github: true,
     linkedin: true,
