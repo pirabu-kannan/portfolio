@@ -9,7 +9,7 @@ export const profile = {
   github: "", // Add your GitHub URL
   linkedin: "", // Add your LinkedIn URL
   scholar: "", // Add Google Scholar URL
-  resume: "/assets/resume.pdf",
+  resume: "./assets/resume.pdf",
   socials: {
     github: true,
     linkedin: true,
