@@ -7,7 +7,7 @@ export const profile = {
   phone: "+91-90800 22667",
   location: "Chennai, India",
   github: "https://www.github.com/piirabu-kannan", // Add your GitHub UR
-  linkedin: "https://www.linkedin.com/in/prirabukannanu", // Add your LinkedIn URL
+  linkedin: "https://www.linkedin.com/in/pirabukannanu", // Add your LinkedIn URL
   scholar: "", // Add Google Scholar URL
   resume: "./assets/resume.pdf",
   socials: {
